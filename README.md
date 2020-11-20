@@ -1,6 +1,4 @@
-# Maiasaurus
-Describing exoplanetary system architectures using information theory
+# Oviraptor
+Describing exoplanetary system architectures comparing systems detected via transits and radial velocities
 
-This repository contains source code used for Gilbert & Fabrycky (2020), "An information theoretic framework for classifying exoplanetary system architectures" (https://arxiv.org/abs/2003.11098)
-
-The functions used to calculated system-level measures are contained in the python scripts "LMC.py" and "archinfo.py"
+This project builds on the previous analysis of Gilbert & Fabrycky (2020), "An information theoretic framework for classifying exoplanetary system architectures" (https://arxiv.org/abs/2003.11098). Source code for that antecedent project can be found at https://github.com/gjgilbert/maiasaurus.
