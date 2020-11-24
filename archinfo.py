@@ -168,8 +168,12 @@ def characteristic_spacing(periods, mp, Mstar):
     """
     a = P_to_a(periods, Mstar)
     
-    radius_H = ((mp[1:]+mp[:-1])/(3*Mstar*MSME))**(1/3) * (a[1:]+a[:-1])/2
-    delta_H  = (a[1:]-a[:-1])/radius_H
+    order = np.argsort(a)
+    mp_ = mp[order]
+    a_ = a[order]
+    
+    radius_H = ((mp_[1:]+mp_[:-1])/(3*Mstar*MSME))**(1/3) * (a_[1:]+a_[:-1])/2
+    delta_H  = (a_[1:]-a_[:-1])/radius_H
     
     return np.mean(delta_H)
 
