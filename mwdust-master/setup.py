@@ -6,9 +6,12 @@ import sys
 import subprocess
 import glob
 
+os.environ['DUST_DIR'] = 'C:/Users/djhoo/Documents/Oviraptor-master/mwdust-master/DUST_DIR'
+os.environ['SUDO_USER'] = 'djhoo'
+
 long_description= ''
 previous_line= ''
-with open('README.rst') as dfile:
+with open('C:/Users/djhoo/Documents/Oviraptor-master/mwdust-master/README.rst') as dfile:
     for line in dfile:
         if not 'image' in line and not 'target' in line \
                 and not 'DETAILED' in line and not '**master**' in line \

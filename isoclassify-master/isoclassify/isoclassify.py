@@ -6,6 +6,9 @@ from collections import OrderedDict
 import pylab as pl
 import numpy as np
 import pandas as pd
+import sys
+sys.path.insert(0, "C:/Users/djhoo/Documents/Oviraptor-master/isoclassify-master/")
+print(sys.path)
 
 import isoclassify.pipeline
 import isoclassify.extinction
