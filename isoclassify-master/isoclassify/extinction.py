@@ -1,11 +1,11 @@
-import sys
-sys.path.insert(0, 'C:/Users/djhoo/Documents/Oviraptor-master/mwdust-master/')
-import mwdust
 import numpy as np
 import pandas as pd
 import astropy.units as units
 from astropy.coordinates import SkyCoord
 #from dustmaps.bayestar import BayestarWebQuery
+import sys
+sys.path.insert(0, "C:/Users/djhoo/Documents/Oviraptor-master/mwdust-master")
+import mwdust
 from isoclassify import DATADIR
 
 from . import PACKAGEDIR
