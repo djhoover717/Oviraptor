@@ -1,0 +1,27 @@
+sudo: false
+language: python
+python:
+  - "2.7"
+virtualenv:
+  system_site_packages: true
+before_install:
+ #Setup conda for faster installs
+ - wget http://repo.continuum.io/miniconda/Miniconda-3.7.3-Linux-x86_64.sh -O miniconda.sh
+ - bash miniconda.sh -b -p $HOME/miniconda
+ - export PATH="$HOME/miniconda/bin:$PATH"
+ - hash -r
+ - conda config --set always_yes yes --set changeps1 no
+ - conda update -q conda
+ - conda create -q -n test-environment python=$TRAVIS_PYTHON_VERSION numpy scipy matplotlib setuptools pip cython>=0.20 h5py
+ - source activate test-environment
+ - pip install healpy
+# command to install dependencies
+install:
+ - python setup.py install --no-downloads
+script: true
+notifications:
+  email:
+    recipients:
+      - jo.bovy@gmail.com
+    on_success: change
+    on_failure: change
