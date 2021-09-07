@@ -1,0 +1,224 @@
+47 UMa
+-----------
+ Naef et al. 2004 
+ TICv8
+ Wittenmyer et al. 2007 
+ Wittenmyer et al. 2009
+
+55 Cnc
+-----------
+ Baluev 2015
+ Bourrier et al. 2018
+ Bourrier &amp; H&eacute;brard 2014
+ Butler et al. 1997 
+ Dai et al. 2019
+ Demory et al. 2011
+ Marcy et al. 2002 
+ McArthur et al. 2004 
+ Naef et al. 2004 
+ Salz et al. 2015
+ TICv8
+ Winn et al. 2011 
+
+61 Vir
+-----------
+ Vogt et al. 2010
+
+DMPP-1
+-----------
+ Staab et al. 2020
+
+GJ 1061
+-----------
+ Dreizler et al. 2020
+
+GJ 163
+-----------
+ Bonfils et al. 2013 
+
+GJ 180
+-----------
+ Feng et al. 2020
+ Tuomi et al. 2014
+
+GJ 3138
+-----------
+ Astudillo-Defru et al. 2017
+
+GJ 3293
+-----------
+ Astudillo-Defru et al. 2015
+ Astudillo-Defru et al. 2017
+
+GJ 433
+-----------
+ Delfosse et al. 2013 
+ Feng et al. 2020
+ Stassun et al. 2017
+ Tuomi et al. 2014
+
+GJ 581
+-----------
+ Bonfils et al. 2005 
+ Mayor et al. 2009 
+ TICv8
+ Vogt et al. 2010
+
+GJ 676 A
+-----------
+ Anglada-Escude & Tuomi 2012 
+ Forveille et al. 2011 
+ Sahlmann et al. 2016
+ Stassun et al. 2017
+
+GJ 876
+-----------
+ Correia et al. 2010 
+ Nelson et al. 2016
+ Rivera et al. 2010 
+ TICv8
+
+HD 10180
+-----------
+ Kane &amp; Gelino 2014
+ Lovis et al. 2011 
+
+HD 125612
+-----------
+ Fischer et al. 2007 
+ Lo Curto et al. 2010 
+ Ment et al. 2018
+ Stassun et al. 2017
+
+HD 136352
+-----------
+ Kane et al. 2020
+ Udry et al. 2019
+
+HD 141399
+-----------
+ H&eacute;brard et al. 2016
+ Vogt et al. 2014
+
+HD 158259
+-----------
+ ExoFOP-TESS TOI
+ Hara et al. 2020
+
+HD 160691
+-----------
+ Butler et al. 2001 
+ Jones et al. 2002 
+ McCarthy et al. 2004 
+ Pepe et al. 2007 
+ Santos et al. 2004 
+ TICv8
+
+HD 164922
+-----------
+ Benatti et al. 2020
+ Butler et al. 2006 
+ Fulton et al. 2016
+ Stassun et al. 2017
+
+HD 181433
+-----------
+ Bouchy et al. 2009 
+ Stassun et al. 2017
+ TICv8
+
+HD 20781
+-----------
+ Udry et al. 2019
+
+HD 20794
+-----------
+ Feng et al. 2017
+ Pepe et al. 2011 
+
+HD 215152
+-----------
+ Delisle et al. 2018
+
+HD 219134
+-----------
+ Gillon et al. 2017
+ Johnson et al. 2016
+ Motalebi et al. 2015
+ Vogt et al. 2015
+
+HD 27894
+-----------
+ K&uuml;rster et al. 2015
+ Moutou et al. 2005 
+ Trifonov et al. 2017
+
+HD 31527
+-----------
+ Udry et al. 2019
+
+HD 34445
+-----------
+ Howard et al. 2010 
+ Stassun et al. 2017
+ Vogt et al. 2017
+
+HD 37124
+-----------
+ Butler et al. 2003 
+ Gozdziewski et al. 2006
+ Vogt et al. 2005 
+ Wright et al. 2011
+
+HD 40307
+-----------
+ D&iacute;az et al. 2016
+ TICv8
+ Tuomi et al. 2013 
+
+HD 69830
+-----------
+ Lovis et al. 2006 
+
+HD 7924
+-----------
+ Fulton et al. 2015
+ Howard et al. 2009 
+ Stassun et al. 2017
+ TICv8
+
+HIP 14810
+-----------
+ Butler et al. 2006 
+ Ment et al. 2018
+ Stassun et al. 2017
+ TICv8
+ Wright et al. 2009 
+
+HIP 57274
+-----------
+ Fischer et al. 2012 
+ Stassun et al. 2017
+ TICv8
+
+Wolf 1061
+-----------
+ Astudillo-Defru et al. 2017
+ Wright et al. 2016
+
+YZ Cet
+-----------
+ Astudillo-Defru et al. 2017
+ Robertson 2018
+
+tau Cet
+-----------
+ Feng et al. 2017
+
+ups And
+-----------
+ Butler et al. 1997 
+ Curiel et al. 2011 
+ Naef et al. 2004 
+ TICv8
+ Wittenmyer et al. 2007

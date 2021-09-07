@@ -145,7 +145,7 @@ def Mstat2R(mean, std, unit='Earth', sample_size=1000, classify = 'No'):
 
 
 
-def Rpost2M(radius, unit='Earth', grid_size = 1e3, classify = 'No'):
+def Rpost2M(radius, unit='Earth', grid_size = 1000, classify = 'No'):
 	"""
 	Forecast the mass distribution given the radius distribution.
 
